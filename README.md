@@ -3,4 +3,4 @@ docker first steps
 
 usage:
 
-docker run my-custom-tensorflow bash
+docker run -it diegovargas/my-custom-tensorflow bash
